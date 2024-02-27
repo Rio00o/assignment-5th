@@ -15,11 +15,12 @@ http://〇〇.jp/?▢＝△
 パス変数は、ファイル・システム上のロケーションを指定します。
 
 # クエリ文字列とパス変数の違いとは
-http://example.com/path/param1/param2?query=param3
-・パスパラメータ
-param1, param2
-・クエリパラメーター
-para3
+①https://zenn.dev/search
 
+②https://zenn.dev/search?q=Laravel
+①と②の違いは「search」の後に「?～」があるかどうか
+
+①のパスパラメータはsearchの部分
+②の場合はパスパラメータは①と同じくsearch,クエリパラメータは?q=Laravel
 
 https://qiita.com/Marusoccer/items/7ccc7c959ccb5efc080f
