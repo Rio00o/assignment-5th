@@ -11,4 +11,15 @@ Uniform Resource Locatorの略語で、Webサイトのページがどこに位�
 http://〇〇.jp/?▢＝△
 上記URLの、？以降の「?▢=△」がクエリ文字列です。
 
-# パス変数
+# パス変数(パラメーター)とは何か
+パス変数は、ファイル・システム上のロケーションを指定します。
+
+# クエリ文字列とパス変数の違いとは
+http://example.com/path/param1/param2?query=param3
+・パスパラメータ
+param1, param2
+・クエリパラメーター
+para3
+
+
+https://qiita.com/Marusoccer/items/7ccc7c959ccb5efc080f
