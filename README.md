@@ -1,8 +1,9 @@
 # HTTPにまつわる用語
 
-## HTTPとは「Hyper Text Transfer Protcol」の略で、データをサーバーとWebブラウザなどのクライアントやり取りする際の"通信手段"を意味します。
-HTML、CSS、画像、音声、動画などホームページを構成するデータはhttpに従ってやり取りされている。Webサーバとクライアントが、HTMLで書かれた
-![image](https://github.com/Rio00o/assignmetn-5th/assets/157946761/88074269-9635-4db1-b4c7-f63284754191)
+## HTTPとは
+「HyperText Transfer Protcol」の略でWebサーバとクライアント(PCやスマホ)のWebブラウザがデータを送受信するためのプロトコル(通信手段)です。
+プロトコルがあるから異なるメーカーや機種でも通信が可能。
+
 
 
 ## URLとは
@@ -26,3 +27,6 @@ http://〇〇.jp/?▢＝△
 ②の場合はパスパラメータは①と同じくsearch,クエリパラメータは?q=Laravel
 
 https://qiita.com/Marusoccer/items/7ccc7c959ccb5efc080f
+
+##HTTPメソッドとは何か
+###GETメソッド
