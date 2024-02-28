@@ -28,5 +28,5 @@ http://〇〇.jp/?▢＝△
 
 https://qiita.com/Marusoccer/items/7ccc7c959ccb5efc080f
 
-##HTTPメソッドとは何か
-###GETメソッド
+## HTTPメソッドとは何か
+### GETメソッド
