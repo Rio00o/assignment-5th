@@ -32,10 +32,6 @@ http://〇〇.jp/?▢＝△
 ①のパスパラメータはsearchの部分
 ②の場合はパスパラメータは①と同じくsearch,クエリパラメータは?q=Laravel
 
-https://qiita.com/Marusoccer/items/7ccc7c959ccb5efc080f
-
-
-
 ## HTTPメソッドとは何か
 
 ### GETメソッド
