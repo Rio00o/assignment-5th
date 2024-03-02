@@ -26,6 +26,7 @@ http://〇〇.jp/?▢＝△
 ①https://zenn.dev/search
 
 ②https://zenn.dev/search?q=Laravel
+
 ①と②の違いは「search」の後に「?～」があるかどうか
 
 ①のパスパラメータはsearchの部分
