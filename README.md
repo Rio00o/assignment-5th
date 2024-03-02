@@ -98,6 +98,7 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ・処理が重くなりづらい
 
 注意点
+
 ・データ構造の自由度が高い分複雑になりがち
 
 ・コメントを記載できない
