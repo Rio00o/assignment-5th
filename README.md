@@ -118,23 +118,3 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ・コメントを記載できない
 
 ## JSONを使ったデータ表現
-
-[
-  {
-    "id": "1",
-    "name": "yamada",
-    "home_town": "Tokyo",
-    "age": "25"
-  },
-  {
-    "id": "2",
-    "name": "tanaka",
-    "home_town": "Osaka",
-    "age": "22"
-  }
-]
-
-{
-  {"Name" : "Ito", "English" : 70, "Math" : 80},
-  {"Name" : "Suzuki", "English" : 90, "Math" : 60}
-}
