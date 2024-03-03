@@ -131,3 +131,4 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
       "home_town":"Osaka",
       "age":"22"
    }
+]
