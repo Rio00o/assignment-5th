@@ -133,3 +133,8 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
     "age": "22"
   }
 ]
+
+{
+  {"Name" : "Ito", "English" : 70, "Math" : 80},
+  {"Name" : "Suzuki", "English" : 90, "Math" : 60}
+}
