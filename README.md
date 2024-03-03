@@ -118,10 +118,9 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ・コメントを記載できない
 
 ## JSONを使ったデータ表現
-
+```
 [
-
-  {
+{
   
   "id": "1", 
   
@@ -142,3 +141,4 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
   }
   
 ]
+```
