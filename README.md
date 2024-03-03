@@ -118,6 +118,7 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ・コメントを記載できない
 
 ## JSONを使ったデータ表現
+[data.json](https://github.com/Rio00o/assignmetn-5th/files/14471760/data.json)
 [
    {
       "id":"1",
@@ -131,4 +132,3 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
       "home_town":"Osaka",
       "age":"22"
    }
-]
