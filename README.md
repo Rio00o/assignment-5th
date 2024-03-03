@@ -120,25 +120,17 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ## JSONを使ったデータ表現
 ```
 [
-{
-  
+ {
   "id": "1", 
-  
   "name": "yamada",
-  
   "home_town": "Tokyo",
-  
-  "age": "25"},
-  
-  {"id": "2", 
-  
+  "age": "25"
+ },
+  {
+  "id": "2", 
   "name": "tanaka",
-  
   "home_town": "Osaka", 
-  
   "age": "22"
-  
   }
-  
 ]
 ```
