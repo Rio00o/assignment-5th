@@ -121,7 +121,9 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 
 [
 
-  {"id": "1", 
+  {
+  
+  "id": "1", 
   
   "name": "yamada",
   
@@ -135,6 +137,8 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
   
   "home_town": "Osaka", 
   
-  "age": "22"}
+  "age": "22"
+  
+  }
   
 ]
