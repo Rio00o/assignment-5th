@@ -118,18 +118,18 @@ JavaScript Object Notationの略で、JavaScriptにおけるオブジェクト�
 ・コメントを記載できない
 
 ## JSONを使ったデータ表現
-[data (1).json](https://github.com/Rio00o/assignmetn-5th/files/14471811/data.1.json)
+
 [
-   {
-      "id":"1",
-      "name":"yamada",
-      "home_town":"Tokyo",
-      "age":"25"
-   },
-   {
-      "id":"2",
-      "name":"tanaka",
-      "home_town":"Osaka",
-      "age":"22"
-   }
+  {
+    "id": "1",
+    "name": "yamada",
+    "home_town": "Tokyo",
+    "age": "25"
+  },
+  {
+    "id": "2",
+    "name": "tanaka",
+    "home_town": "Osaka",
+    "age": "22"
+  }
 ]
