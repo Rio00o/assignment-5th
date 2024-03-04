@@ -29,6 +29,7 @@ https://lp.example.com/pc/001.php?waad=aBcDXxXx&utm_medium=cpc#description
 
 パラメータが複数ある場合は「&」でつないでいきます。
 
+
 クエリ文字列には二種類あり、アクティブパラメーターとパッシブパラメーターがあります。
 
 - パッシブパラメーター
