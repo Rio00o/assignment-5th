@@ -15,6 +15,20 @@ Uniform Resource Locatorの略語で、Webサイトのページがどこに位�
 
 クエリ（検索）パラメータ（変数）や、クエストリングとも言う
 
+```
+https://example.com/lp_01/index.html?waad=aBcDXxXx
+```
+
+上記の場合、「?s=gaiq」がクエリパラメータです。
+
+「?」+「変数名」+「=」+「変数の値」とういうのが、クエリパラメータの基本構造となります。
+
+パラメータが複数ある場合は「&」でつないでいきます。
+
+```
+https://lp.example.com/pc/001.php?waad=aBcDXxXx&utm_medium=cpc#description
+```
+
 クエリ文字列には二種類あり、アクティブパラメーターとパッシブパラメーターがあります。
 
 - パッシブパラメーター
