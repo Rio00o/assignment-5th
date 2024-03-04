@@ -23,11 +23,11 @@ https://example.com/lp_01/index.html?waad=aBcDXxXx
 
 「?」+「変数名」+「=」+「変数の値」とういうのが、クエリパラメータの基本構造となります。
 
-パラメータが複数ある場合は「&」でつないでいきます。
-
 ```
 https://lp.example.com/pc/001.php?waad=aBcDXxXx&utm_medium=cpc#description
 ```
+
+パラメータが複数ある場合は「&」でつないでいきます。
 
 クエリ文字列には二種類あり、アクティブパラメーターとパッシブパラメーターがあります。
 
