@@ -101,15 +101,15 @@ HTTPのレスポンスステータスコードは特定のHTTPリクエストが
 ### - クライアントエラーレスポンス　
 クライアントエラーが出たときに表示されるステータスコード
 
-### - 200 OK
+### -  200 OK
 リクエスト成功
-### - 201 Created
+### -  201 Created
 新たに作成されたリソースのURLが返される
-### - 400 Bad Request
+### -  400 Bad Request
 リクエストが不正
-### - 404 Not Found 
+### -  404 Not Found 
 未検出、ページが見つからなかった
-### - 500 Internal Service Error
+### -  500 Internal Service Error
 サーバー内部のエラー
 
 ## HTTPレスポンスの構成
