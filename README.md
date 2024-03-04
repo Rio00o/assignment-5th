@@ -33,15 +33,12 @@ Uniform Resource Locatorの略語で、Webサイトのページがどこに位�
 
 ## クエリ文字列とパス変数の違いとは
 
-①https://zenn.dev/search
+```
+https://example.com/pathparameter/{pathparameter}?queryparameter1=hogehoge&queryparameter2=fugafuga
+```
 
-②https://zenn.dev/search?q=Laravel
-
-①と②の違いは「search」の後に「?～」があるかどうか
-
-①のパスパラメータはsearchの部分
-
-②の場合はパスパラメータは①と同じくsearch,クエリパラメータは?q=Laravel
+URLで?の前に来るものがパスパラメータです。
+?の後に来るのがクエリパラメータです
 
 ## HTTPメソッドとは何か
 
@@ -53,10 +50,10 @@ POSTメソッドは動作を伴うデータを送ることができます。
 データを新規作成するときも使用します。
 
 ### PUTメソッド
-PUTメソッドはデータの更新、アップロードをするときに使われます。データが存在しない場合は新規作成します。
+PUTメソッドはリクエストされたデータを置き換えます(新しく作り変える)。
 
 ### PATCHメソッド
-PATCHメソッドはデータの更新時に使われます。
+PATCHメソッドはデータの更新、変更、修正します。
 
 
 ### DELETEメソッド
