@@ -9,7 +9,7 @@
 
 ## URLとは
 
-Uniform Resource Locatorの略語で、Webサイトのページがどこに位置するのかを示す「住所」のようなもの。Internet Explorerなどのブラウザでホームページの上部に表示されており、httpやhttpから始まる半角英数の文字列のこと。
+Uniform Resource Locatorの略語で、Webサイトのページがどこに位置するのかを示す「住所」のようなもの。Internet Explorerなどのブラウザでホームページの上部に表示されており、httpやhttpsから始まる半角英数の文字列のこと。
 
 ## クエリ文字列とは
 
